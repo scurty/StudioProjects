@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPAndroidChart/MPAndroidChart.iml" filepath="$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPAndroidChart/MPAndroidChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPAndroidChart/MPChartExample/MPChartExample.iml" filepath="$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPAndroidChart/MPChartExample/MPChartExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/../InfosysInfo/app/src/main/java/Libraries/MPChartLib/MPChartLib.iml" />
+    </modules>
+  </component>
+</project>

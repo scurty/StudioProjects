@@ -1,0 +1,1 @@
+include ':app', ':HttpConvAuthFlows-4.1.2', ':CommonCertificateProvider-4.1.2', ':CDSProvider-4.1.2', ':ClientLog-4.1.2', ':DataVaultLib-4.1.2', ':ODataAPI-4.1.2', ':HttpConversation-4.1.2', ':SmpClient-4.1.2', ':E2ETrace-4.1.2', ':SupportabilityFacade-4.1.2', ':MobilePlace-4.1.2', ':jdeferred-android-aar-1.2.6', ':FederationProvider-4.1.2', ':Federation-4.1.2'

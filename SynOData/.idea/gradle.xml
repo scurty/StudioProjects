@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CDSProvider-4.1.2" />
+            <option value="$PROJECT_DIR$/ClientLog-4.1.2" />
+            <option value="$PROJECT_DIR$/CommonCertificateProvider-4.1.2" />
+            <option value="$PROJECT_DIR$/DataVaultLib-4.1.2" />
+            <option value="$PROJECT_DIR$/E2ETrace-4.1.2" />
+            <option value="$PROJECT_DIR$/Federation-4.1.2" />
+            <option value="$PROJECT_DIR$/FederationProvider-4.1.2" />
+            <option value="$PROJECT_DIR$/HttpConvAuthFlows-4.1.2" />
+            <option value="$PROJECT_DIR$/HttpConversation-4.1.2" />
+            <option value="$PROJECT_DIR$/MobilePlace-4.1.2" />
+            <option value="$PROJECT_DIR$/ODataAPI-4.1.2" />
+            <option value="$PROJECT_DIR$/SmpClient-4.1.2" />
+            <option value="$PROJECT_DIR$/SupportabilityFacade-4.1.2" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jdeferred-android-aar-1.2.6" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BasicAuth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTRLStep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Connect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GPSVideoCam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InfosysInfo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaterialNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nvvem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhotoView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appauth-android-codelab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-docs-samples" vcs="Git" />
+  </component>
+</project>
